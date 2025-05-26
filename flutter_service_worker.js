@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "3569980db1e8e66322951f9989e025ab",
+"flutter_bootstrap.js": "dde2a0f90bfef38268c4b5c64b2c1c8f",
 "canvaskit/skwasm.js.symbols": "80806576fa1056b43dd6d0b445b4b6f7",
 "canvaskit/canvaskit.js": "6cfe36b4647fbfa15683e09e7dd366bc",
 "canvaskit/canvaskit.js.symbols": "68eb703b9a609baef8ee0e413b442f33",
@@ -92,18 +92,19 @@ const RESOURCES = {"flutter.js": "76f08d47ff9f5715220992f993002504",
 "assets/images/Enfermaria.jpg": "25b7af67ad19ed854750c5fb7c6f8992",
 "assets/images/turn-back.png": "e2f7be2d21b5b094c163fd48dd7d852d",
 "assets/images/clodcos_ai_two.gif": "4ae478d0a7cf72abc00656ebc61cfd7a",
-"assets/AssetManifest.bin.json": "88fa157389c1c0171599bf93b94c9e52",
-"assets/AssetManifest.json": "89e3f22ef9a99523cd5aab9ab0b1093a",
+"assets/AssetManifest.bin.json": "98b1878c47fccfb2abe741ddd3693b68",
+"assets/path/to/to.png": "1c483f9137f7bd473e52a533dc1f1b42",
+"assets/AssetManifest.json": "30a063c8c81bc6052ace95e087101ff2",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
-"assets/AssetManifest.bin": "3a8a029577c3a21d2770d43f22d0f88d",
+"assets/AssetManifest.bin": "8a2234d0dc40bdfc5ab31fc3e910222e",
 "assets/FontManifest.json": "9ee548a5be803eea4cd8dc712d80fb39",
 "version.json": "3b08ce80d67e972136d411c68414499a",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"manifest.json": "d73a9703b2d44a682290b8b32c832732"};
+"favicon.png": "558deeaa4b66296bcc5aaede3cae5844",
+"icons/Icon-512.png": "6af42bc1a3e12b6516332735edc6952e",
+"icons/Icon-192.png": "d6810c7b1b6009de3b8b79c955b42348",
+"icons/Icon-maskable-192.png": "d6810c7b1b6009de3b8b79c955b42348",
+"icons/Icon-maskable-512.png": "6af42bc1a3e12b6516332735edc6952e",
+"manifest.json": "6584829b3d4a087a0fdc25a06aa21bd2"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
